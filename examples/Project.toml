@@ -1,0 +1,5 @@
+[deps]
+AABBCollisions = "e9a25f4f-7567-41c9-bed9-7afc1e9351de"
+SaferIntegers = "88634af6-177f-5301-88b8-7819386cfa38"
+SimpleDraw = "d1acf6f4-8553-480e-80ae-3c883f0a995a"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
